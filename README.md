@@ -7,4 +7,4 @@ Below are the results after training the model on the dataset and after 1700 epo
 
 ![flower](https://github.com/Akhilesh64/Florum-Ipsum-DCGAN/blob/master/GAN(final).gif)
 
-The model can be furthur be fine tuned which I am working on currently, but the process is difficult as DCGAN's are hard to train.
+The model can be furthur fine tuned which I am working on currently, but the process is difficult as DCGAN's are hard to train.
